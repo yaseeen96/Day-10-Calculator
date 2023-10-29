@@ -10,7 +10,7 @@
 
 `docker compose run --rm application python main.py`
 
-*P.S - don't forget to delete the image after running the container :smile: *
+*P.S - don't forget to delete the image after running the container :smile:*
 
 `docker image rm day-10`
 

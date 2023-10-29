@@ -8,8 +8,11 @@
 
 ### Using Docker compose
 
-`docker compose run application python main.py`
+`docker compose run --rm application python main.py`
 
+*P.S - don't forget to delete the image after running the container :smile: *
+
+`docker image rm day-10`
 
 
 ## [Directly run on Replit](https://replit.com/@syaseendev/Day-10-Calculator)
